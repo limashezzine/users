@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.topLineNavArea{
+    font-weight: 600;
+    font-size: 40px;
+    color: #fff;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*height: 25px;
+    max-height: 25px;
+    min-height: 25px;*/
+    text-align:center;
+    background: -webkit-linear-gradient(left,#f15b2a,#e80a89);
+    background: -o-linear-gradient(right,#f15b2a,#e80a89);
+    background: linear-gradient(to right,#f15b2a,#e80a89);
+}
